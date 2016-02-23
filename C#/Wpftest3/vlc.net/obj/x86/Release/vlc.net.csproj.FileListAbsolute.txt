@@ -1,0 +1,7 @@
+D:\UDT\pmf-master-1\C#\Wpftest3\vlc.net\bin\Release\vlc.net.exe
+D:\UDT\pmf-master-1\C#\Wpftest3\vlc.net\bin\Release\vlc.net.pdb
+D:\UDT\pmf-master-1\C#\Wpftest3\vlc.net\obj\x86\Release\vlc.net.Form1.resources
+D:\UDT\pmf-master-1\C#\Wpftest3\vlc.net\obj\x86\Release\vlc.net.Properties.Resources.resources
+D:\UDT\pmf-master-1\C#\Wpftest3\vlc.net\obj\x86\Release\vlc.net.csproj.GenerateResource.Cache
+D:\UDT\pmf-master-1\C#\Wpftest3\vlc.net\obj\x86\Release\vlc.net.exe
+D:\UDT\pmf-master-1\C#\Wpftest3\vlc.net\obj\x86\Release\vlc.net.pdb

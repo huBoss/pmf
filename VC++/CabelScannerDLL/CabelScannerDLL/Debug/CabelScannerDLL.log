@@ -1,0 +1,71 @@
+﻿生成启动时间为 2015/1/13 20:01:02。
+     1>项目“D:\UDT\pmf-master\VC++\CabelScannerDLL\CabelScannerDLL\CabelScannerDLL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CABELSCANNERDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CableScannerDLL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CABELSCANNERDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CableScannerDLL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CableScannerDLL.cpp Coil.cpp DigitalCompass.cpp FFTWFilter.cpp GPS.cpp mps.cpp SerialPort.cpp
+         SerialPort.cpp
+         mps.cpp
+         GPS.cpp
+         FFTWFilter.cpp
+         DigitalCompass.cpp
+         Coil.cpp
+         CableScannerDLL.cpp
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(354): warning C4273: “fnCableScanInit”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(60) : 参见“fnCableScanInit”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(362): warning C4273: “fnMPSInit”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(61) : 参见“fnMPSInit”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(367): warning C4273: “fnMPSInitX”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(62) : 参见“fnMPSInitX”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(374): warning C4273: “fnGetDataLength”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(68) : 参见“fnGetDataLength”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(379): warning C4273: “fnGetDataPtr”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(66) : 参见“fnGetDataPtr”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(384): warning C4273: “fnFreqPtrLen”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(64) : 参见“fnFreqPtrLen”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(389): warning C4273: “fnFreqPtrMalloc”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(63) : 参见“fnFreqPtrMalloc”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(396): warning C4273: “fnFreqPtrFree”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(65) : 参见“fnFreqPtrFree”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(401): warning C4273: “fnGetData”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(69) : 参见“fnGetData”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(600): warning C4273: “fnCableScanYZ”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(85) : 参见“fnCableScanYZ”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(759): warning C4273: “fnCableScanCloseAll”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(90) : 参见“fnCableScanCloseAll”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(779): warning C4273: “fnTestPrint”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(93) : 参见“fnTestPrint”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(785): warning C4273: “fnGetTimeLen”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(91) : 参见“fnGetTimeLen”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(790): warning C4273: “fnInitDigitalCompass”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(98) : 参见“fnInitDigitalCompass”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(795): warning C4273: “fnGetAngle”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(99) : 参见“fnGetAngle”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(800): warning C4273: “fnInitGPS”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(102) : 参见“fnInitGPS”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(805): warning C4273: “fnGPSStart”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(103) : 参见“fnGPSStart”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(809): warning C4273: “fnGPSStop”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(104) : 参见“fnGPSStop”的前一个定义
+     1>d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.cpp(813): warning C4273: “fnGPSGetLocation”: dll 链接不一致
+                 d:\udt\pmf-master\vc++\cabelscannerdll\cabelscannerdll\cablescannerdll.h(105) : 参见“fnGPSGetLocation”的前一个定义
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CABELSCANNERDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UDT\pmf-master\VC++\CabelScannerDLL\Debug\CableScannerDLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UDT\pmf-master\VC++\CabelScannerDLL\Debug\CableScannerDLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UDT\pmf-master\VC++\CabelScannerDLL\Debug\CableScannerDLL.lib" /MACHINE:X86 /DLL Debug\CableScannerDLL.obj
+         Debug\Coil.obj
+         Debug\DigitalCompass.obj
+         Debug\dllmain.obj
+         Debug\FFTWFilter.obj
+         Debug\GPS.obj
+         Debug\mps.obj
+         Debug\SerialPort.obj
+         Debug\stdafx.obj
+            正在创建库 D:\UDT\pmf-master\VC++\CabelScannerDLL\Debug\CableScannerDLL.lib 和对象 D:\UDT\pmf-master\VC++\CabelScannerDLL\Debug\CableScannerDLL.exp
+         CabelScannerDLL.vcxproj -> D:\UDT\pmf-master\VC++\CabelScannerDLL\Debug\CableScannerDLL.dll
+     1>已完成生成项目“D:\UDT\pmf-master\VC++\CabelScannerDLL\CabelScannerDLL\CabelScannerDLL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.33

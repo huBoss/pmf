@@ -1,0 +1,23 @@
+D:\360安全浏览器下载\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+D:\360安全浏览器下载\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.csprojResolveAssemblyReference.cache
+D:\360安全浏览器下载\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+D:\360安全浏览器下载\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.PTZControl.resources
+D:\360安全浏览器下载\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.Cache
+D:\360安全浏览器下载\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\CH-HCNetSDK(Windows32)V5.1.3.5_build20150701\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.exe
+H:\海康威视\新建文件夹\PreviewDemo\obj\Release\PreviewDemo.exe
+H:\海康威视\新建文件夹\PreviewDemo\bin\PreviewDemo.exe
+H:\海康威视\新建文件夹\PreviewDemo\obj\Release\PreviewDemo.csprojResolveAssemblyReference.cache
+H:\海康威视\新建文件夹\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+H:\海康威视\新建文件夹\PreviewDemo\obj\Release\PreviewDemo.PTZControl.resources
+H:\海康威视\新建文件夹\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.Cache
+D:\UDT\camera\PreviewDemo\bin\PreviewDemo.exe
+D:\UDT\camera\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+D:\UDT\camera\PreviewDemo\obj\Release\PreviewDemo.PTZControl.resources
+D:\UDT\camera\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.Cache
+D:\UDT\camera\PreviewDemo\obj\Release\PreviewDemo.exe
+D:\UDT\pmf-master-1\C#\camera_simple\PreviewDemo\obj\Release\PreviewDemo.exe
+D:\UDT\pmf-master-1\C#\camera_simple\PreviewDemo\obj\Release\PreviewDemo.csprojResolveAssemblyReference.cache
+D:\UDT\pmf-master-1\C#\camera_simple\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+D:\UDT\pmf-master-1\C#\camera_simple\PreviewDemo\obj\Release\PreviewDemo.PTZControl.resources
+D:\UDT\pmf-master-1\C#\camera_simple\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.Cache
+D:\UDT\pmf-master-1\C#\camera_simple\PreviewDemo\bin\PreviewDemo.exe

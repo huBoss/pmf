@@ -1,0 +1,141 @@
+﻿生成启动时间为 2015/9/8 16:59:43。
+     1>项目“D:\UDT\pmf-master-1\VC++\CabelScannerDLL\CabelScannerDLL\CabelScannerDLL.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D CABLESCANNERDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\CableScannerDLL.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D CABLESCANNERDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\CableScannerDLL.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Accelerometer.cpp CableScannerDLL.cpp Coil.cpp DigitalCompass.cpp FFTWFilter.cpp GPS.cpp I2Cdev.cpp mps.cpp MPU6050.cpp SerialPort.cpp
+         Accelerometer.cpp
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\helper_3dmath.h(120): warning C4244: “/=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\helper_3dmath.h(121): warning C4244: “/=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\helper_3dmath.h(122): warning C4244: “/=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\helper_3dmath.h(151): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\helper_3dmath.h(152): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\helper_3dmath.h(153): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\MPU6050_6Axis_MotionApps20.h(415): warning C4244: “初始化”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\MPU6050_6Axis_MotionApps20.h(460): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\MPU6050_6Axis_MotionApps20.h(478): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\MPU6050_6Axis_MotionApps20.h(627): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\MPU6050_6Axis_MotionApps20.h(628): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\MPU6050_6Axis_MotionApps20.h(629): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+     1>d:\udt\pmf-master-1\vc++\cabelscannerdll\cabelscannerdll\MPU6050_6Axis_MotionApps20.h(690): warning C4244: “参数”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+     1>Accelerometer.cpp(116): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Accelerometer.cpp(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Accelerometer.cpp(118): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         CableScannerDLL.cpp
+     1>CableScannerDLL.cpp(829): warning C4305: “return”: 从“int”到“bool”截断
+     1>CableScannerDLL.cpp(830): warning C4305: “return”: 从“int”到“bool”截断
+     1>CableScannerDLL.cpp(831): warning C4305: “return”: 从“int”到“bool”截断
+         Coil.cpp
+         DigitalCompass.cpp
+     1>DigitalCompass.cpp(47): warning C4244: “参数”: 从“ULONG”转换到“uint8_t”，可能丢失数据
+         FFTWFilter.cpp
+         GPS.cpp
+         I2Cdev.cpp
+     1>I2Cdev.cpp(457): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+         mps.cpp
+         MPU6050.cpp
+     1>MPU6050.cpp(272): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(287): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(302): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(595): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(613): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(631): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(649): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(668): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(686): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(704): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(722): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(752): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(775): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(793): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(815): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(960): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(986): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1011): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1037): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1131): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1152): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1173): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1234): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1246): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1257): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1268): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1279): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1290): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1301): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1312): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1325): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1344): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1363): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1382): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1401): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1420): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1444): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1471): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1518): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1537): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1556): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1575): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1595): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1615): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1649): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1660): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1671): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1682): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1694): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(1705): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2008): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2017): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2026): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2035): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2044): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2053): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2062): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2092): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2125): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2284): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2308): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2383): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2404): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2533): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2552): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2571): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2590): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2609): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2628): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2855): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2862): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2872): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2876): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2880): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2884): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2888): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2892): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2899): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2903): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>MPU6050.cpp(2910): warning C4800: “uint8_t”: 将值强制为布尔值“true”或“false”(性能警告)
+         SerialPort.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D CABLESCANNERDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UDT\pmf-master-1\VC++\CabelScannerDLL\Release\CableScannerDLL.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UDT\pmf-master-1\VC++\CabelScannerDLL\Release\CableScannerDLL.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UDT\pmf-master-1\VC++\CabelScannerDLL\Release\CableScannerDLL.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO /DLL Release\Accelerometer.obj
+         Release\CableScannerDLL.obj
+         Release\Coil.obj
+         Release\DigitalCompass.obj
+         Release\dllmain.obj
+         Release\FFTWFilter.obj
+         Release\GPS.obj
+         Release\I2Cdev.obj
+         Release\mps.obj
+         Release\MPU6050.obj
+         Release\SerialPort.obj
+         Release\stdafx.obj
+            正在创建库 D:\UDT\pmf-master-1\VC++\CabelScannerDLL\Release\CableScannerDLL.lib 和对象 D:\UDT\pmf-master-1\VC++\CabelScannerDLL\Release\CableScannerDLL.exp
+         正在生成代码
+         已完成代码的生成
+         CabelScannerDLL.vcxproj -> D:\UDT\pmf-master-1\VC++\CabelScannerDLL\Release\CableScannerDLL.dll
+     1>已完成生成项目“D:\UDT\pmf-master-1\VC++\CabelScannerDLL\CabelScannerDLL\CabelScannerDLL.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.30

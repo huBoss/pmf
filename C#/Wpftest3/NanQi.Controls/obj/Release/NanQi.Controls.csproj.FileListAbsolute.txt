@@ -1,0 +1,9 @@
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\bin\Release\NanQi.Controls.dll
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\bin\Release\NanQi.Controls.pdb
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\bin\Release\NanQi.Common.dll
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\bin\Release\NanQi.Common.pdb
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\obj\Release\NanQi.Controls.csprojResolveAssemblyReference.cache
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\obj\Release\NanQi.Controls.Properties.Resources.resources
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\obj\Release\NanQi.Controls.csproj.GenerateResource.Cache
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\obj\Release\NanQi.Controls.dll
+D:\UDT\pmf-master-1\C#\Wpftest3\NanQi.Controls\obj\Release\NanQi.Controls.pdb

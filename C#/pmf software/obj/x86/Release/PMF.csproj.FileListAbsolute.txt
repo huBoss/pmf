@@ -1,0 +1,17 @@
+D:\pmf software\bin\x86\Release\PMF.exe
+D:\pmf software\bin\x86\Release\PMF.pdb
+D:\pmf software\bin\x86\Release\LSTCommon.dll
+D:\pmf software\bin\x86\Release\MSR.LST.Net.Rtp.dll
+D:\pmf software\bin\x86\Release\NetworkingBasics.dll
+D:\pmf software\bin\x86\Release\OxyPlot.dll
+D:\pmf software\bin\x86\Release\OxyPlot.WindowsForms.dll
+D:\pmf software\bin\x86\Release\OxyPlot.pdb
+D:\pmf software\bin\x86\Release\OxyPlot.xml
+D:\pmf software\bin\x86\Release\OxyPlot.WindowsForms.pdb
+D:\pmf software\bin\x86\Release\OxyPlot.WindowsForms.xml
+D:\pmf software\obj\x86\Release\PMF.PMF.resources
+D:\pmf software\obj\x86\Release\PMF.Properties.Resources.resources
+D:\pmf software\obj\x86\Release\PMF.csproj.GenerateResource.Cache
+D:\pmf software\obj\x86\Release\PMF.exe
+D:\pmf software\obj\x86\Release\PMF.pdb
+D:\pmf software\obj\x86\Release\PMF.csprojResolveAssemblyReference.cache

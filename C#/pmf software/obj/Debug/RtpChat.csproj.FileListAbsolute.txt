@@ -1,0 +1,69 @@
+F:\ugd\RTP Video Conference\bin\Debug\RtpChat.exe.config
+F:\ugd\RTP Video Conference\bin\Debug\RtpChat.exe
+F:\ugd\RTP Video Conference\bin\Debug\RtpChat.pdb
+F:\ugd\RTP Video Conference\bin\Debug\LSTCommon.dll
+F:\ugd\RTP Video Conference\bin\Debug\MSR.LST.Net.Rtp.dll
+F:\ugd\RTP Video Conference\bin\Debug\NetworkingBasics.dll
+F:\ugd\RTP Video Conference\obj\Debug\RtpChat.csprojResolveAssemblyReference.cache
+F:\ugd\RTP Video Conference\obj\Debug\RtpChat.frmChat.resources
+F:\ugd\RTP Video Conference\obj\Debug\RtpChat.Properties.Resources.resources
+F:\ugd\RTP Video Conference\obj\Debug\RtpChat.csproj.GenerateResource.Cache
+F:\ugd\RTP Video Conference\obj\Debug\RtpChat.exe
+F:\ugd\RTP Video Conference\obj\Debug\RtpChat.pdb
+F:\ugd\RTP Video Conference\bin\Debug\OxyPlot.dll
+F:\ugd\RTP Video Conference\bin\Debug\OxyPlot.WindowsForms.dll
+F:\ugd\RTP Video Conference\bin\Debug\OxyPlot.pdb
+F:\ugd\RTP Video Conference\bin\Debug\OxyPlot.xml
+F:\ugd\RTP Video Conference\bin\Debug\OxyPlot.WindowsForms.pdb
+F:\ugd\RTP Video Conference\bin\Debug\OxyPlot.WindowsForms.xml
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\RtpChat.exe
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\RtpChat.pdb
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\LSTCommon.dll
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\MSR.LST.Net.Rtp.dll
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\NetworkingBasics.dll
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\OxyPlot.dll
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\OxyPlot.WindowsForms.dll
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\OxyPlot.pdb
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\OxyPlot.xml
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\OxyPlot.WindowsForms.pdb
+F:\MTU\pmf\CsharpGUI\pmf software\bin\Debug\OxyPlot.WindowsForms.xml
+F:\MTU\pmf\CsharpGUI\pmf software\obj\Debug\RtpChat.csprojResolveAssemblyReference.cache
+F:\MTU\pmf\CsharpGUI\pmf software\obj\Debug\RtpChat.frmChat.resources
+F:\MTU\pmf\CsharpGUI\pmf software\obj\Debug\RtpChat.Properties.Resources.resources
+F:\MTU\pmf\CsharpGUI\pmf software\obj\Debug\RtpChat.csproj.GenerateResource.Cache
+F:\MTU\pmf\CsharpGUI\pmf software\obj\Debug\RtpChat.exe
+F:\MTU\pmf\CsharpGUI\pmf software\obj\Debug\RtpChat.pdb
+E:\MTU\pmf software\bin\Debug\RtpChat.exe
+E:\MTU\pmf software\bin\Debug\RtpChat.pdb
+E:\MTU\pmf software\bin\Debug\LSTCommon.dll
+E:\MTU\pmf software\bin\Debug\MSR.LST.Net.Rtp.dll
+E:\MTU\pmf software\bin\Debug\NetworkingBasics.dll
+E:\MTU\pmf software\bin\Debug\OxyPlot.dll
+E:\MTU\pmf software\bin\Debug\OxyPlot.WindowsForms.dll
+E:\MTU\pmf software\bin\Debug\OxyPlot.pdb
+E:\MTU\pmf software\bin\Debug\OxyPlot.xml
+E:\MTU\pmf software\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\MTU\pmf software\bin\Debug\OxyPlot.WindowsForms.xml
+E:\MTU\pmf software\obj\Debug\RtpChat.csprojResolveAssemblyReference.cache
+E:\MTU\pmf software\obj\Debug\RtpChat.frmChat.resources
+E:\MTU\pmf software\obj\Debug\RtpChat.Properties.Resources.resources
+E:\MTU\pmf software\obj\Debug\RtpChat.csproj.GenerateResource.Cache
+E:\MTU\pmf software\obj\Debug\RtpChat.exe
+E:\MTU\pmf software\obj\Debug\RtpChat.pdb
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\RtpChat.exe
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\RtpChat.pdb
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\LSTCommon.dll
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\MSR.LST.Net.Rtp.dll
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\NetworkingBasics.dll
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\OxyPlot.dll
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\OxyPlot.WindowsForms.dll
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\OxyPlot.pdb
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\OxyPlot.xml
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\OxyPlot.WindowsForms.pdb
+F:\gitlab\MTU\pmf\pmf software\bin\Debug\OxyPlot.WindowsForms.xml
+F:\gitlab\MTU\pmf\pmf software\obj\Debug\RtpChat.csprojResolveAssemblyReference.cache
+F:\gitlab\MTU\pmf\pmf software\obj\Debug\RtpChat.frmChat.resources
+F:\gitlab\MTU\pmf\pmf software\obj\Debug\RtpChat.Properties.Resources.resources
+F:\gitlab\MTU\pmf\pmf software\obj\Debug\RtpChat.csproj.GenerateResource.Cache
+F:\gitlab\MTU\pmf\pmf software\obj\Debug\RtpChat.exe
+F:\gitlab\MTU\pmf\pmf software\obj\Debug\RtpChat.pdb

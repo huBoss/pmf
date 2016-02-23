@@ -1,0 +1,117 @@
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\bin\Debug\Wpftest3.exe
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\bin\Debug\Wpftest3.pdb
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.csprojResolveAssemblyReference.cache
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Globle.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\MainWindow.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\PM.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\BureauBlack.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\BureauBlue.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\ExpressionDark.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\ExpressionLight.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\ShinyBlue.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\ShinyRed.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\WhistlerBlue.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\StreetView.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\TransparentWithShapes.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Window1.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Globle.g.cs
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\MainWindow.g.cs
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\PM.g.cs
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\StreetView.g.cs
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\TransparentWithShapes.g.cs
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Window1.g.cs
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\App.g.cs
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3_MarkupCompile.cache
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.g.resources
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.Properties.Resources.resources
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.csproj.GenerateResource.Cache
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.exe
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.pdb
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Cable_Setting.baml
+D:\文档\实验室\pmf.git\C#\Wpftest3\Wpftest3\obj\x86\Debug\Cable_Setting.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.exe
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.pdb
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Cable_Setting.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Globle.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\MainWindow.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\PM.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\BureauBlack.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\BureauBlue.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\ExpressionDark.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\ExpressionLight.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\ShinyBlue.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\ShinyRed.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Resource\WhistlerBlue.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\StreetView.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\TransparentWithShapes.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Cable_Setting.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Globle.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\MainWindow.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\PM.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\StreetView.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\TransparentWithShapes.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\App.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3_MarkupCompile.cache
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.g.resources
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.Properties.Resources.resources
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.csproj.GenerateResource.Cache
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\bin\Debug\Wpftest3.exe
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\bin\Debug\Wpftest3.pdb
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Database_Setting.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Database_Setting.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Gps_Askfor.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Realtime_track_Window.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Gps_Askfor.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Realtime_track_Window.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3_MarkupCompile.lref
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Get_from_database.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\New_Test.baml
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Get_from_database.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\New_Test.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\bin\Debug\Wpftest3.exe.config
+D:\UDT\pmf-master-1\C#\Wpftest3\Wpftest3\obj\x86\Debug\Wpftest3.csprojResolveAssemblyReference.cache
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\bin\Debug\Wpftest3.exe.config
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Wpftest3.exe
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Wpftest3.pdb
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\bin\Debug\Wpftest3.exe
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\bin\Debug\Wpftest3.pdb
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Wpftest3.csprojResolveAssemblyReference.cache
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Get_from_database.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Globle.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Gps_Askfor.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\MainWindow.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\New_Test.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\PM.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Resource\BureauBlack.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Resource\BureauBlue.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Resource\ExpressionDark.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Resource\ExpressionLight.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Resource\ShinyBlue.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Resource\ShinyRed.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Resource\WhistlerBlue.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\StreetView.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\TransparentWithShapes.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Realtime_track_Window.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Cable_Setting.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Database_Setting.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Get_from_database.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Globle.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Gps_Askfor.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\MainWindow.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\New_Test.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\PM.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\StreetView.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\TransparentWithShapes.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Realtime_track_Window.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\App.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Wpftest3_MarkupCompile.cache
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Wpftest3_MarkupCompile.lref
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Cable_Setting.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Database_Setting.baml
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Wpftest3.g.resources
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Wpftest3.Properties.Resources.resources
+D:\UDT\pmf-master-1\C#\Wpftest3 2010\Wpftest3\obj\x86\Debug\Wpftest3.csproj.GenerateResource.Cache
